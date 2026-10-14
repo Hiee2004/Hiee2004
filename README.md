@@ -9,7 +9,7 @@
 - 🎓 Software Engineering @ FPT University (K18)
 - 🦷 Capstone: **OZE Dental Clinic Management System** (SEP490_G66), team leader & backend developer
 - 🌱 Learning: Clean Architecture, Docker, CI/CD with GitHub Actions
-- 📫 Contact: your-email@example.com
+- 📫 Contact: nguyenhiep762004@gmail.com
 
 ### 🛠 Tech stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
