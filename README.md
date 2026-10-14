@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hiee2004&label=Profile%20views&color=00f5ff&style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hiee2004.Hiee2004&left_text=Profile%20views&left_color=0d1117&right_color=00b8c4" />
   <a href="mailto:nguyenhiep762004@gmail.com"><img src="https://img.shields.io/badge/Email-nguyenhiep762004-0d1117?style=flat-square&logo=gmail&logoColor=00f5ff" /></a>
   <a href="https://codeforces.com/profile/Hiee204"><img src="https://img.shields.io/badge/Codeforces-Hiee204-0d1117?style=flat-square&logo=codeforces&logoColor=00f5ff" /></a>
 </p>
