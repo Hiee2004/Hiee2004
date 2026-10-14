@@ -16,17 +16,9 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🤖 `> whoami`
 
-```csharp
-public class Hiep : Developer
-{
-    public string Role          => "Backend Developer (.NET)";
-    public string School        => "FPT University · Software Engineering (K18)";
-    public string[] Stack       => new[] { "C#", "ASP.NET Core 8", "EF Core", "SQL Server", "Docker" };
-    public string CurrentMission => "OZE Dental Clinic Management System 🦷";
-    public string Learning      => "Clean Architecture · CI/CD · System Design";
-    public string Motto         => "Code. Debug. Repeat. 🔁";
-}
-```
+<p align="center">
+  <img src="assets/terminal.svg" alt="whoami terminal" width="100%" />
+</p>
 
 <!-- ===================== TECH STACK ===================== -->
 ## ⚙️ `> tech --stack`

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; font-size: 15px; }
+    .user { fill: #00f5ff; font-weight: 700; }
+    .path { fill: #ff00ff; font-weight: 700; }
+    .cmd  { fill: #e6edf3; }
+    .out  { fill: #c9d1d9; }
+    .key  { fill: #00f5ff; }
+    .dim  { fill: #8b949e; }
+    .line { opacity: 0; animation: show 0.01s forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="818" height="328" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h794 a12 12 0 0 1 12 12 v25 h-818 z" fill="#161b22"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <text x="410" y="25" text-anchor="middle" class="mono dim" font-size="13">hiep@oze: ~</text>
+
+  <g class="mono">
+    <text x="24" y="68" class="line" style="animation-delay:0.3s"><tspan class="user">hiep@oze</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> whoami</tspan></text>
+    <text x="24" y="92" class="line out" style="animation-delay:0.9s">Nguyen Xuan Hiep · Backend Developer (.NET)</text>
+
+    <text x="24" y="126" class="line" style="animation-delay:1.6s"><tspan class="user">hiep@oze</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> cat profile.txt</tspan></text>
+    <text x="24" y="150" class="line" style="animation-delay:2.2s"><tspan class="key">school   </tspan><tspan class="dim">: </tspan><tspan class="out">FPT University · Software Engineering (K18)</tspan></text>
+    <text x="24" y="174" class="line" style="animation-delay:2.5s"><tspan class="key">stack    </tspan><tspan class="dim">: </tspan><tspan class="out">C# · ASP.NET Core 8 · EF Core · SQL Server · Docker</tspan></text>
+    <text x="24" y="198" class="line" style="animation-delay:2.8s"><tspan class="key">mission  </tspan><tspan class="dim">: </tspan><tspan class="out">OZE Dental Clinic Management System</tspan></text>
+    <text x="24" y="222" class="line" style="animation-delay:3.1s"><tspan class="key">learning </tspan><tspan class="dim">: </tspan><tspan class="out">Clean Architecture · CI/CD · System Design</tspan></text>
+
+    <text x="24" y="256" class="line" style="animation-delay:3.8s"><tspan class="user">hiep@oze</tspan><tspan class="path">:~$</tspan><tspan class="cmd"> echo $MOTTO</tspan></text>
+    <text x="24" y="280" class="line out" style="animation-delay:4.4s">Code. Debug. Repeat.</text>
+
+    <text x="24" y="312" class="line" style="animation-delay:5.0s"><tspan class="user">hiep@oze</tspan><tspan class="path">:~$</tspan><tspan class="cursor" fill="#00f5ff"> █</tspan></text>
+  </g>
+</svg>
