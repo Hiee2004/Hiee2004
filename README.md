@@ -43,7 +43,7 @@
       <h3>🦷 <a href="https://github.com/hung2004-web/SEP490_G66">OZE Dental Clinic Management System</a></h3>
       <p>Capstone project (SEP490_G66) · Web system for appointment booking, queues, clinical records, dental imaging, treatment plans and payments.</p>
       <p><b>My role:</b> Team leader & backend developer<br/>
-      <b>Built:</b> Auth (login · logout · forgot/reset password) · Room management · Work shift management APIs</p>
+      <!-- <b>Built:</b> Auth (login · logout · forgot/reset password) · Room management · Work shift management APIs</p> -->
       <img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/EF_Core-0d1117?style=flat-square&logo=dotnet&logoColor=00f5ff" />
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
